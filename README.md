@@ -1,0 +1,5 @@
+# F1NANS
+Projeto Hackaton GR1D
+
+AQUI VOCÊ PODE ENCONTRAR TODOS O CÓDIGOS RM PYTHON USADOS PARA CRIAR, TREINAR E MELHORAR O NAIVEBAYES-IA PARA CLASSIFICAÇÃO DE COMENTÁRIOS DO FACEBOOK. #O banco de dados usado é próprio construido a partir da captação dos comentários do facebook que se referem à Coca-cola e Fanta Guranar. #Os comentarios foram coletados manualmente para o MVP, para a versão final esse processo será automatizado, juntamento com o reconhecimento de imagem dos produtos dos concorrentes. A saída da IA foram as avaliações feitas quanto a natureza dos comentários, se positivo ou negativo. # Os resultados obtidos com essa base de dados não refletem o potencial máximo da IA (apenas 70% aproximadamente), foram obtidos apenas para a demonstração prática aplicada aos concorrentes diretos da Organização a que se refere esta solção# Parâmetros para a execução do algorítmo foram escolhidos com base em estudos já realizados na área. #Quando esta rede for efetivamente utilizada comercialmente, faremos um novo treinamento com mais parâmetros para aumentar a eficácia da previsão, que no momento está em aproximadamente 83%.
+
