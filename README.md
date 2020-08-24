@@ -1,7 +1,7 @@
 # F1NANS
 Projeto Hackaton GR1D
 
-AQUI VOCÊ PODE ENCONTRAR TODOS O CÓDIGOS  EM PYTHON USADOS PARA CRIAR, TREINAR E MELHORAR A IA PARA CLASSIFICAÇÃO DO PERFIL DE CONSIMIDORES DE PRODUTOS/SERVIÇOS DO MERCADO FINANCEIRO. #O banco de dados usado foi simulado contemplado as API da GR1D que mostram dados do perfil do usuário, transações, acesso ao openbanking, segurança, oferta de serviços, entre outros. # Os dados estaão distriburi da seguinte forma:
+AQUI VOCÊ PODE ENCONTRAR TODOS OS CÓDIGOS EM PYTHON USADOS PARA CRIAR, TREINAR E MELHORAR A IA DE CLASSIFICAÇÃO DO PERFIL DE CONSUMIDORES DE PRODUTOS/SERVIÇOS DO MERCADO FINANCEIRO. #O banco de dados usado foi simulado contemplado as API da GR1D e parceiros que mostram dados do Perfil do Usuário, Transações, acesso à dados do openbanking, segurança, oferta de serviços, entre outros. # Os dados estão distriburi da seguinte forma:
 
 PERFIS DE CONCESSÃO DE CRÉDITO 
 
@@ -62,5 +62,5 @@ PERFIL 3 - bom pagador
 • Tempo de Empresa:
 - entre 3 anos ou mais
 
-As especificações foram levantadas por nosso especialista em mercado financeiro e serviram como entra em nosso modelo(Algorítmo deeplearning). A saída da IA foram os repectivos perfis (Perfil 1, Perfil 2 e Perfil 3). # Os resultados obtidos com essa base de dados, embora de 100%, são simulações, apenas com o objetivo de demonstrar um MVP de nossa solução # Parâmetros para a execução do algorítmo foram escolhidos com base em estudos já realizados na área. #Quando esta rede for efetivamente utilizada comercialmente, faremos novos treinamentos com mais parâmetros para aumentar a eficácia e acertividade na predição do Perfil dos consumidores.
+As especificações foram levantadas por nosso especialista em mercado financeiro e serviram como entrada em nosso modelo(Algorítmo Deeplearning). A saída da IA foram os repectivos perfis (Perfil 1, Perfil 2 e Perfil 3). # Os resultados obtidos com essa base de dados, embora de 100%, são simulações, que tem por objetivo demonstrar o MVP de nossa solução # Parâmetros para a execução do algorítmo foram escolhidos com base em estudos já realizados na área. #Quando esta rede for efetivamente utilizada comercialmente, faremos novos treinamentos com mais parâmetros para aumentar a eficácia e acertividade na predição do Perfil dos Consumidores.
 
